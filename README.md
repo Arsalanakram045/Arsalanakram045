@@ -1,4 +1,8 @@
-- 👋 Hi, I’m highly driven software developer with the experience of Data Analyst and Data Science
+- 👋 Hi, I’m highly driven Data Analyst and Data Science with the experience of:
+-     -> Data Reading
+-     -> Data Cleaning
+-     -> Data Imputation and Manipulation
+-     -> Data Visualization
 - 👀 I’m interested in making Jupyter Notebook and machine learning prediction projects
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on learning Machine Learning and Deep Learning
